@@ -1,4 +1,4 @@
-25668778099963801
+25658742047017189
 0thaumati-footprintslib
 2-pin-header-spaced-horizontal
 Through hole angled pin header, 1x03, 2.54mm pitch, 6mm pin length, single row
@@ -47,13 +47,6 @@ Through hole angled pin header THT 1x03 2.54mm single row
 
 0
 2
-2
-0thaumati-footprintslib
-ADAMTECH_RF2-143-T-17-50-G
-
-
-0
-5
 2
 0thaumati-footprintslib
 AMPHENOL_10118194-0011LF
@@ -119,20 +112,6 @@ Keystone_7698-SEMS
 4
 1
 0thaumati-footprintslib
-MODULE_102010428
-
-
-0
-14
-14
-0thaumati-footprintslib
-OSC_TG2016SMN_48.0000M-ECGNNM0
-
-
-0
-4
-4
-0thaumati-footprintslib
 Oscillator_SMD_2.0x1.6mm
 
 
@@ -160,6 +139,13 @@ RFPC-SMA28-F
 0
 5
 2
+0thaumati-footprintslib
+RJ45_HanRun_HR911130A_Horizontal
+LAN-Transformer WE-RJ45LAN 10/100/1000 BaseT
+ethernet lan connector
+0
+16
+15
 0thaumati-footprintslib
 RPU0010A
 
@@ -196,27 +182,6 @@ TS-1187A-B-A-B
 4
 4
 0thaumati-footprintslib
-UHF_Coaxial_Balun
-
-
-0
-5
-5
-0thaumati-footprintslib
-Untitled
-
-
-0
-1
-1
-0thaumati-footprintslib
-Untitled_1
-
-
-0
-5
-3
-0thaumati-footprintslib
 cap-rect-w7.5-l5.5-p5.0 kicad fucking sucks
 
 
@@ -244,13 +209,6 @@ in-12-socket
 0
 12
 12
-0thaumati-footprintslib
-microSD-XKTF-015-N
-
-
-0
-13
-10
 0thaumati-footprintslib
 pinsocket-2.54-spaced-2pin
 Through hole angled socket strip, 1x03, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated

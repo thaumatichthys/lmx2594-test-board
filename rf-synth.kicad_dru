@@ -1,0 +1,5 @@
+(version 1)
+(rule "ClearanceForDiffMStripTop"
+(constraint clearance (min 1.25mm))
+(condition "(A.NetClass == '50_Ohm') && (B.Type == 'zone') && (A.Width > 0.3mm)")
+)
